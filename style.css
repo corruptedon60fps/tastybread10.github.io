@@ -1,0 +1,52 @@
+* {
+  font-family: 'Baloo Bhaijaan 2', cursive;
+  color: white;
+}
+
+body {
+  background-image: url(images/background-image.jpg);
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+}
+
+.games-box {
+  border: red solid 3px;
+  background-color: red;
+  border-radius: 10px;
+  width: 145px;
+  display: inline-block;
+  list-style-type: none;
+  position: relative;
+  top: 250px;
+  left: 200px;
+  font-size: 50px;
+}
+
+.team-box {
+    border: red solid 3px;
+    background-color: red;
+    border-radius: 10px;
+    width: 113px;
+    display: inline-block;
+    list-style-type: none;
+    font-size: 50px;
+    position: relative;
+    top: 250px;
+    left: 400px;
+}
+
+.socials-box {
+    border: red solid 3px;
+    background-color: red;
+    border-radius: 10px;
+    width: 150px;
+    font-size: 50px;
+    position: relative;
+    top: 250px;
+    left: 600px;
+    display: inline-block;
+    list-style-type: none;
+}

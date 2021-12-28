@@ -4,7 +4,15 @@
 }
 
 body {
-  background-color: #000000;
+  background-color: black;
+}
+
+.main h2 {
+  text-align: center;
+}
+
+.main h4 {
+  text-align: center;
 }
 
 h1 {

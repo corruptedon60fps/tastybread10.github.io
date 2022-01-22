@@ -32,4 +32,14 @@ but you may be wondering what games have we made?
 
 
 
+
+
 none
+
+-MrTasyBread
+
+
+
+Maybe if you convinced the team to do their job <3
+
+- Tasty Juice
